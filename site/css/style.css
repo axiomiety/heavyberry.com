@@ -1,0 +1,9 @@
+div.logo {margin-top:200px; margin-bottom:50px;}
+
+body {font-family:"Audiowide", cursive;}
+a:link {color:black;}    /* unvisited link */
+a:visited {color:black;} /* visited link */
+a:hover {color:black;letter-spacing:2px;text-decoration: none}   /* mouse over link */
+a:active {color:black;}  /* selected link */
+h3.divider {color:black;}
+p{color:grey; letter-spacing:4px;}
